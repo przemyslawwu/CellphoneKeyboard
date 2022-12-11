@@ -1,0 +1,15 @@
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\bin\Debug\net6.0\CellphoneKeyboard.exe
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\bin\Debug\net6.0\CellphoneKeyboard.deps.json
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\bin\Debug\net6.0\CellphoneKeyboard.runtimeconfig.json
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\bin\Debug\net6.0\CellphoneKeyboard.dll
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\bin\Debug\net6.0\CellphoneKeyboard.pdb
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.csproj.AssemblyReference.cache
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.AssemblyInfoInputs.cache
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.AssemblyInfo.cs
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.dll
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\refint\CellphoneKeyboard.dll
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.pdb
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\CellphoneKeyboard.genruntimeconfig.cache
+C:\Users\testu\Desktop\CellphoneKeyboard\CellphoneKeyboard\CellphoneKeyboard\obj\Debug\net6.0\ref\CellphoneKeyboard.dll
